@@ -1,0 +1,104 @@
+# depslib dependency file v1.0
+1457870014 source:c:\users\stefan\documents\facultate\geometrie\dreptunghi.cpp
+	"dreptunghi.h"
+	<iostream>
+	<cstring>
+
+1457870340 c:\users\stefan\documents\facultate\geometrie\dreptunghi.h
+	"poligon.h"
+
+1457871703 c:\users\stefan\documents\facultate\geometrie\poligon.h
+	"punct.h"
+	<fstream>
+	<cstdio>
+
+1457870448 c:\users\stefan\documents\facultate\geometrie\punct.h
+
+1457870028 source:c:\users\stefan\documents\facultate\geometrie\patrat.cpp
+	"patrat.h"
+	<iostream>
+	<cmath>
+	<cstring>
+
+1457870374 c:\users\stefan\documents\facultate\geometrie\patrat.h
+	"poligon.h"
+
+1457877954 source:c:\users\stefan\documents\facultate\geometrie\poligon.cpp
+	"poligon.h"
+	<iostream>
+	<cmath>
+	<cctype>
+	<cstring>
+	<cstdio>
+	<cstdlib>
+
+1457870021 source:c:\users\stefan\documents\facultate\geometrie\punct.cpp
+	"punct.h"
+
+1457881483 source:c:\users\stefan\documents\facultate\geometrie\main.cpp
+	<iostream>
+	"poligon.h"
+	<fstream>
+	"patrat.h"
+	<cmath>
+	<cstdio>
+	<cstring>
+	"dreptunghi.h"
+	"stiva.h"
+
+1457873652 c:\users\stefan\documents\facultate\geometrie\include\stiva.h
+
+1457878294 source:c:\users\stefan\documents\facultate\geometrie\src\stiva.cpp
+	"stiva.h"
+
+1457873652 c:\users\stefan\documents\facultate\geometrie\stiva.h
+
+1457862814 source:c:\users\vlad stefan\desktop\geometrie\dreptunghi.cpp
+	"dreptunghi.h"
+	<iostream>
+	<cstring>
+
+1457863140 c:\users\vlad stefan\desktop\geometrie\dreptunghi.h
+	"poligon.h"
+
+1457864502 c:\users\vlad stefan\desktop\geometrie\poligon.h
+	"punct.h"
+	<fstream>
+	<cstdio>
+
+1457863248 c:\users\vlad stefan\desktop\geometrie\punct.h
+
+1457874282 source:c:\users\vlad stefan\desktop\geometrie\main.cpp
+	<iostream>
+	"poligon.h"
+	<fstream>
+	"patrat.h"
+	<cmath>
+	<cstdio>
+	<cstring>
+	"dreptunghi.h"
+	"stiva.h"
+
+1457863174 c:\users\vlad stefan\desktop\geometrie\patrat.h
+	"poligon.h"
+
+1457866452 c:\users\vlad stefan\desktop\geometrie\stiva.h
+
+1457862828 source:c:\users\vlad stefan\desktop\geometrie\patrat.cpp
+	"patrat.h"
+	<iostream>
+	<cmath>
+	<cstring>
+
+1457870754 source:c:\users\vlad stefan\desktop\geometrie\poligon.cpp
+	"poligon.h"
+	<iostream>
+	<cmath>
+	<cctype>
+	<cstring>
+	<cstdio>
+	<cstdlib>
+
+1457862820 source:c:\users\vlad stefan\desktop\geometrie\punct.cpp
+	"punct.h"
+
